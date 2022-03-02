@@ -1,4 +1,4 @@
-"_BASE_USED_" = "en-GB";
+"_BASE_USED_" = "en";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
@@ -19,7 +19,7 @@
 "Want to make Keka your default compressor?" = "Want to make Keka your default compressor?";
 "This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "This means that all the compatible files will be extracted with Keka. You can set this later in the Keka Preferences.";
 "Really want to close Keka?" = "Really want to close Keka?";
-"The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "The current operations will be cancelled. If you choose to wait and quit Keka will exit when all work is done.";
+"The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done.";
 "Password needed" = "Password needed";
 "File \"%@\" needs a password to be extracted" = "File \"%@\" needs a password to be extracted";
 "File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
@@ -138,10 +138,10 @@
 "Attempt to modify an archive previously locked" = "Attempt to modify an archive previously locked";
 "Maybe you don't have permission to write or your disk is full" = "Maybe you don't have permission to write or your disk is full";
 "Can't open the file, maybe you don't have read permission" = "Can't open the file, maybe you don't have read permission";
-"Command line error, please contact with the developer" = "Command line error, please contact the developer";
+"Command line error, please contact with the developer" = "Command line error, please contact with the developer";
 "Not enough memory. Try to close some programs and repeat the operation" = "Not enough memory. Try to close some programs and repeat the operation";
 "Can't create the file, maybe you don't have permission or free space" = "Can't create the file, maybe you don't have permission or free space";
-"Canceled manually" = "Cancelled manually";
+"Canceled manually" = "Canceled manually";
 "Bad password, try again" = "Bad password, try again";
 "This archive is locked" = "This archive is locked";
 "Write error. No permission? No space left?" = "Write error. No permission? No space left?";
@@ -154,7 +154,7 @@
 "More information" = "More information";
 "Keka needs file access" = "Keka needs file access";
 "Give home access" = "Give home access";
-"Customize" = "Customise";
+"Customize" = "Customize";
 "Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "In order to work seamlessly with your files, Keka needs local access to the Mac disk.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nSimply click on \"Give access to Keka\", your disk should already be selected.";
