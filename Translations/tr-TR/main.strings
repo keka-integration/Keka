@@ -95,7 +95,7 @@
 "nvz-UK-KlM.title" = "Save As…";
 
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "p3U-PZ-hC3"; */
-"p3U-PZ-hC3.title" = "Customise Toolbar…";
+"p3U-PZ-hC3.title" = "Customize Toolbar…";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "rHb-df-xAE"; */
 "rHb-df-xAE.title" = "Bring All to Front";
@@ -110,7 +110,7 @@
 "sx5-sf-JmW.title" = "Hide Others";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "tDe-Bb-f8d"; */
-"tDe-Bb-f8d.title" = "Minimise";
+"tDe-Bb-f8d.title" = "Minimize";
 
 /* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
 "tjx-uw-4ov.title" = "Page Setup...";
